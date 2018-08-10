@@ -1,4 +1,4 @@
-# hardening
+# hardening IIS
 
 POWERShell script to IIS harden
 Transcript of IIS Lockdown and Server Hardening
